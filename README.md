@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="[https://i.imgur.com/dTYwdG1.gif](https://raw.githubusercontent.com/pragith98/pragith98/main/welcome%20to%20pragith98.gif?token=GHSAT0AAAAAABZ7GSWROI5QLTU6ZAINIAHIY6SWVMA)" alt="Welcome!" width="300"/>
+<img src="https://raw.githubusercontent.com/pragith98/pragith98/main/welcome%20to%20pragith98.gif?token=GHSAT0AAAAAABZ7GSWROI5QLTU6ZAINIAHIY6SWVMA" alt="Welcome!" width="300"/>
 
 </div>
 
