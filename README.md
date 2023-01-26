@@ -27,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
-
+---
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/pragith98" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
